@@ -1,0 +1,7 @@
+<h1>Angular Lifecycle Hooks Demo</h1>
+    <app-child [inputData]="parentData">
+      <ng-template #projectedContent>
+        <p>This is projected content from the parent.</p>
+      </ng-template>
+    </app-child>
+    <button (click)="updateData()">Update Input</button>
