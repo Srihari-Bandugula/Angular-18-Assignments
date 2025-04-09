@@ -1,0 +1,24 @@
+ul li{
+    color: white;
+    line-height: 3;
+}
+ul{
+    list-style: none;
+}
+div{
+    height: 94vh;
+}
+a{
+    text-decoration: none;
+}
+button{
+    height: 35px;
+    width: 130px;
+    margin-top: 20px;
+    text-align: center;
+}
+button:hover{
+    background-color: grey;
+    transform: scale(1.05);
+}
+

@@ -1,0 +1,9 @@
+ .header {
+  color: white;
+  background-color: grey;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  height: 55px;
+}

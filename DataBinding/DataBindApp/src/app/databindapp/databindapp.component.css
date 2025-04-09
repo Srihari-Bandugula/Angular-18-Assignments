@@ -1,0 +1,12 @@
+.active {
+    background-color: lightblue;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  div{
+    margin-top: 75px;
+    margin-bottom: 10px;
+  }
+
